@@ -47,7 +47,7 @@
       },
       "properties": {
         "name": "DC Region",
-        "opacity": "0.25"
+        "fillOpacity": "0.1"
       }
     }
   ]
