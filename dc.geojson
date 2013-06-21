@@ -6,10 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.03621864318848,
-          38.889763509129224
-        ]
+          -77.03656196594238,
+          38.9002179997498
+          ]
+        },
+      "properties": {
+        "marker-symbol": "marker",
+        "name": "Washington DC"
+        }
       }
-    }
   ]
 }
